@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,aACE,kBAAmB,CACnB,gBACF,CAEA,aACE,kBACF","file":"style.92d7eccd.css","sourceRoot":"..\\src","sourcesContent":[".input-group {\n  margin-bottom: 20px;\n  padding-bottom: 0;\n}\n\n.input-block {\n  margin-bottom: 10px;\n}\n"]}
